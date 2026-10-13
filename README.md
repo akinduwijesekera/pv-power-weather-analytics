@@ -11,7 +11,7 @@ to correct anomalous values. Descriptive statistics and correlation
 analysis were used to identify key feature relationships, including the
 influence of cloud cover on rain probability. A multivariate linear
 regression model was developed to predict photovoltaic (PV) production,
-achieving an R\` of 0.74. The results highlight the predictive importance
+achieving an R²` of 0.74. The results highlight the predictive importance
 of temperature, humidity, and solar irradiance for renewable energy
 forecasting.
 
